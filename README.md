@@ -1,3 +1,3 @@
 # Computer-Vision-Package
 
-Filters and masks are applied to image and histograms are displayed using java langauage.
+The package includes filters and masks that are applied to images and histograms are displayed using java langauage.
